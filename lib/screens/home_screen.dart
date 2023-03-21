@@ -95,6 +95,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         : Icons.play_circle_outline),
                   ),
                 ),
+                const SizedBox(height: 50),
                 Center(
                   child: IconButton(
                     iconSize: 30,
